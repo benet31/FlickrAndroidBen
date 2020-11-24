@@ -1,10 +1,10 @@
 package com.example.flickr.repository
 
-import android.telecom.Call
+
 import retrofit2.http.GET
 import retrofit2.http.Query
 import com.example.flickr.model.SearchResult
-import com.example.flickr.model.SearchResult as ComExampleFlickrModelSearchResult
+import retrofit2.Call
 
 interface FlickrAPI {
 

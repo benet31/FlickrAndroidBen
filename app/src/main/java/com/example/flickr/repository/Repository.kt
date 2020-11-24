@@ -1,9 +1,10 @@
 package com.example.flickr.repository
 
 import com.example.flickr.model.SearchResult
+import retrofit2.Callback
 import retrofit2.Retrofit
 import retrofit2.converter.moshi.MoshiConverterFactory
-import javax.security.auth.callback.Callback
+
 
 class Repository {
     fun getPhotos(callback: Callback<SearchResult>) {
