@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Flickr</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="party_with_colours">Party with colours</string>
+    <string name="next">NEXT</string>
+    <string name="all_images">All Images</string>
+    <string name="todo">TODO</string>
 </resources>
